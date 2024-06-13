@@ -3,6 +3,7 @@ import sys
 from backend import Chatbot
 import threading
 
+
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
